@@ -12,7 +12,7 @@ Ouvrez une invite de commande dans le dossier GeoGuessrApp puis rentrez les lign
 
 ```bash
 source env/bin/activate
-python app_builder.py
+python3 app_builder.py
 ```
 
 ## Contributions
